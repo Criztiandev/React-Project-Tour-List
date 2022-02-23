@@ -1,0 +1,12 @@
+.loader{
+  
+    font-family: 'Manrope', sans-serif;
+    font-weight: 700;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+    border: 1px solid black;
+}

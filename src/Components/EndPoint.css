@@ -1,0 +1,11 @@
+.End-Point{
+    font-family: 'Manrope', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+button{
+    margin: 1rem;
+}
